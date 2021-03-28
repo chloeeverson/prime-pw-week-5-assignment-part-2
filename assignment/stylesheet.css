@@ -1,0 +1,28 @@
+
+body {
+  background-image: url("record.png");
+  background-repeat: repeat;
+  margin: 0px;
+}
+
+.header {
+  background-color: #2A2B4E;
+  color: #9697F0;
+  padding: 5px 20px;
+  text-align: center;
+}
+
+.main {
+  background-color: lightgrey;
+  padding: 1em;
+}
+
+ul {
+  background-color: #9697F0;
+  padding: 1em 3em;
+
+}
+
+h3 {
+  text-decoration: underline;
+}
